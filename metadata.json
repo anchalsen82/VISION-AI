@@ -1,0 +1,12 @@
+{
+  "name": "AuraVision - AI Accessibility Assistant",
+  "description": "AI-powered accessibility companion empowering visually impaired users with real-time scene description, object identification, OCR text reading, currency recognition, face recognition, obstacle safety warnings, voice commands, and emergency SOS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
